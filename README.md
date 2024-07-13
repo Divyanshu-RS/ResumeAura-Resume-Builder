@@ -1,5 +1,6 @@
 # Resume Aura
 Resume Aura is a dynamic and user-friendly resume building website designed to help users create professional resumes effortlessly. Built with modern web technologies, this project aims to provide an intuitive and customizable platform for crafting resumes that stand out.
+<br>
 [Visit Now](https://resume-aura-divyanshu-rs.vercel.app/) 
 ## Features
 1. User-Friendly Interface: Simplified and interactive UI for seamless resume creation.
@@ -11,7 +12,8 @@ Resume Aura is a dynamic and user-friendly resume building website designed to h
 
 ## Technologies Used
 <ul>
-<li>Frontend: Built with [React.js](https://react.dev/) for a smooth and dynamic user experience.</li>
+  
+<li>**Frontend:** Built with [React.js](https://react.dev/) for a smooth and dynamic user experience.</li>
 <li>Styling: Styled with [Chakra UI](https://react.dev/) for a modern and accessible design</li>.
 <li>Printing: Utilizes [React To Print](https://www.npmjs.com/package/react-to-print) for easy PDF generation and printing.</li>
 <li>Deployment: Deployed on [Vercel](https://vercel.com/) for optimal performance and reliability.</li>
