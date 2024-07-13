@@ -30,3 +30,4 @@ Resume Aura is a dynamic and user-friendly resume building website designed to h
 </ul>
 
 ## Home Page Overview
+![Alt text](assets/readme/ResumeAura Resume Builder.jpeg)
