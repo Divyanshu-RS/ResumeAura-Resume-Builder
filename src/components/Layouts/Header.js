@@ -49,7 +49,7 @@ const Header = () => {
         style = {
             { fontFamily: 'Poppins' }
         } >
-        ResumeAura is a tool that frequently functions as an automated procedure where you enter your information using a template.the ability to quickly and easily create, print, and download your resume
+        ResumeAura is a tool that frequently functions as an automated procedure where you enter your information using a template. The ability to quickly and easily create, print, and download your resume
         for free. <
         /Text> <
         Stack spacing = {
